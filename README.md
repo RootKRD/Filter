@@ -2,7 +2,7 @@
 
 #Install & Set :
 ```
-> git clone
+> git clone https://github.com/RootKRD/Filter
 > cd Filter
 > python uFilter.py
 ```
