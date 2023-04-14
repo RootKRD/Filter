@@ -15,7 +15,7 @@ bn = '''
  | |_| | | |      | | | | | |_  |  __/ | |   
   \__,_| |_|      |_| |_|  \__|  \___| |_|   
                                              
-        URL to fetch and Filter 'RootKrd'
+        URL to fetch and Filter 'uFilter'
         T.me: RootKrd                               
 '''
 def get_fl_url(args):
