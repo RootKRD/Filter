@@ -1,6 +1,12 @@
 import requests
 import argparse
-
+import sys, os
+def clz():
+    if sys.platform.startswith('win'):
+        os.system('cls')
+    else:
+        os.system('clear')
+clz()
 bn = '''
           ______   _   _   _                 
          |  ____| (_) | | | |                 0.1v
