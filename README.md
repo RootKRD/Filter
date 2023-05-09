@@ -2,11 +2,11 @@
 
 #Install & Set :
 
-<pre class="notranslate"><code>
+<code>
 git clone https://github.com/RootKRD/Filter
 cd Filter
 python uFilter.py
-</code></pre>
+</code>
 
 # Usage : 
 
