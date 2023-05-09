@@ -19,3 +19,15 @@ python uFilter.py https://example.com -txt -js -json
 https://user-images.githubusercontent.com/109300095/231968508-d8e1c7c2-3f10-4109-9f5e-520919f5bc8c.mp4
 
 
+<pre class="notranslate"><code>{
+"host" : "",
+"socket" : "",
+"webView" : "https://www.google.com"
+}
+</code></pre>
+
+<code>{
+"host" : "",
+"socket" : "",
+"webView" : "https://www.google.com"
+}
