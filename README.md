@@ -17,6 +17,23 @@ python uFilter.py https://example.com -txt -js -json
 
 https://user-images.githubusercontent.com/109300095/231968508-d8e1c7c2-3f10-4109-9f5e-520919f5bc8c.mp4
 
+
+
+
+
+
+
+
+
+
+
+</code></pre></div>
+<ol start="6" dir="auto">
+<li>Fill in the above JSON structure with your server information.</li>
+<li>Go to <a href="https://www.base64encode.org/" rel="nofollow">https://www.base64encode.org/</a> and copy the encoded result of your JSON data.</li>
+<li>In Android Studio, paste the encoded result into the <code>data</code> variable.</li>
+<li>The final code should look like this:</li>
+</ol>
 <div class="highlight highlight-source-kotlin notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="fun getAppData(): AppData {
     val data = &quot;&lt;your encoded server info&gt;&quot;
     val text = decode(data)
