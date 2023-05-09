@@ -1,11 +1,13 @@
 # URL to fetch and Filter 'uFilter' :fire:
 
 #Install & Set :
-```
-> git clone https://github.com/RootKRD/Filter
-> cd Filter
-> python uFilter.py
-```
+
+<pre class="notranslate"><code>{
+git clone https://github.com/RootKRD/Filter
+cd Filter
+python uFilter.py
+}
+</code></pre>
 
 # Usage : 
 
@@ -25,9 +27,3 @@ https://user-images.githubusercontent.com/109300095/231968508-d8e1c7c2-3f10-4109
 "webView" : "https://www.google.com"
 }
 </code></pre>
-
-<code>{
-"host" : "",
-"socket" : "",
-"webView" : "https://www.google.com"
-}
