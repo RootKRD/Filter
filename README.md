@@ -1,8 +1,7 @@
 # URL to fetch and Filter 'uFilter' :fire:
 
 #Install & Set :
-<pre class="notranslate"><code>
-git clone https://github.com/RootKRD/Filter
+<pre class="notranslate"><code>git clone https://github.com/RootKRD/Filter
 cd Filter
 python uFilter.py
 </code></pre>
